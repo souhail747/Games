@@ -1,0 +1,11 @@
+.border{
+
+    border:2px solid red;
+}
+.highlighter-context {
+    background-color: #cdb4db; /* Remove quotes around the color value */
+}
+
+.root{
+    margin:0
+}
